@@ -18,5 +18,3 @@
 - O arquivo model.py configurado com a tabela tb_coins;
 - Configurar o endpoint do RDS na variável db_string;
 - Aplicação executada consumindo API e persistido no banco de dados.
-
-
