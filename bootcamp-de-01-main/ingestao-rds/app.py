@@ -142,5 +142,5 @@ get_data(get_session_db,
          '1',
          '5000',
          'USD',
-         '7bdc01a6-f004-4c0b-b21c-1c1d3970352f',
+         'xxxxxxxxxxxxxxxxxxxxxxxx',
          'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest')
