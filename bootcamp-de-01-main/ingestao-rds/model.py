@@ -26,11 +26,8 @@ class Coins(Base):
     percent_change_7d = Column(Float)
    
     def start():
-<<<<<<< HEAD
         db_string = "postgresql://postgres:hghjghjgjj@server01.hgjhghjgjhgj.us-east-1.rds.amazonaws.com/coins"
-=======
         db_string = "postgresql://postgres:xxxx@xxxxx.xxxxx.us-east-1.rds.amazonaws.com/coins"
->>>>>>> 326df91d3426ec28e444050879fe7daf3d168c22
         engine = create_engine(db_string)
         Session = sessionmaker(bind=engine)
         session = Session()
