@@ -21,3 +21,6 @@
 - Criação de um Data Lake no formato Delta no AWS S3 com buckets Raw, Processed e Curated.
 
 ![Delta_Lake](https://user-images.githubusercontent.com/45739569/218259255-96b34f51-3ad4-4c3c-ad30-39f08fff505c.PNG)
+
+
+![S3](https://user-images.githubusercontent.com/45739569/218259611-3b0b5c30-0af4-45ce-8c41-91fd98fb1733.PNG)
