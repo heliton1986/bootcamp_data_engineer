@@ -2,7 +2,7 @@
 
 ### Construção de uma arquitetura de pipeline de dados usando a cloud AWS para extrair dados do site Coinmarketcap através da API.
 
-![Arquitetura](https://user-images.githubusercontent.com/45739569/218257772-852a45c8-2992-4e81-84e3-d01bfb7fc1c8.PNG)
+![Arquitetura](https://user-images.githubusercontent.com/45739569/218258669-fafad37f-4416-4b45-8217-4bf72c13f801.PNG)
 
 ##### Ingestão dos dados:
 
