@@ -8,7 +8,11 @@
 
 - Foi usado a key da API na função get_data(key) na aplicação app.py;
 - Provisionado o RDS PostgreSQL na AWS;
-![RDS](https://user-images.githubusercontent.com/45739569/218258389-71d38d08-dd2e-46c0-8ac1-7054ec677cb6.PNG)
+
+div align="center"
+img src="(https://user-images.githubusercontent.com/45739569/218258389-71d38d08-dd2e-46c0-8ac1-7054ec677cb6.PNG" width="0px" /
+/div
+
 
 - O arquivo model.py configurado com a tabela tb_coins;
 - Configurar o endpoint do RDS na variável db_string;
