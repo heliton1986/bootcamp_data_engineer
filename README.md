@@ -52,7 +52,7 @@
 ![Athena](https://user-images.githubusercontent.com/45739569/224555727-76d0f8d5-78c3-42ee-871e-d768c6a43057.png)
 
 
-### Criando o Data Warehouse com Redshift para armazenar os dados para consultas subsequentes através do EMR:
+### Subindo o Data Warehouse com Redshift para armazenar os dados.
 
 
 ![Redshift4](https://user-images.githubusercontent.com/45739569/224556620-dc2368f7-8350-4e3d-b46f-7dac2c1055d8.png)
