@@ -55,7 +55,8 @@
 ### Criando o Data Warehouse com Redshift para armazenar os dados para consultas subsequentes através do EMR.
 
 
-![Redshift4](https://user-images.githubusercontent.com/45739569/224556429-b2eb0e64-5510-4c96-b23c-e742ec48450a.png)
+![Redshift4](https://user-images.githubusercontent.com/45739569/224556529-e0202342-7ebe-4a2b-bb50-d5624073462e.png)
+
 
 
 
