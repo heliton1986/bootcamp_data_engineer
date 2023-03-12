@@ -19,7 +19,7 @@
 - Configurar o endpoint do RDS na variável db_string;
 - Aplicação executada consumindo API e persistido no banco de dados.
 
-### Criação de um Data Lake no formato Delta no AWS S3 com buckets Raw, Processed e Curated.
+### Criação de um Data Lake no formato Delta no AWS S3 com buckets Raw, Processed e Curated:
 
 ![Delta_Lake](https://user-images.githubusercontent.com/45739569/218259255-96b34f51-3ad4-4c3c-ad30-39f08fff505c.PNG)
 
@@ -44,7 +44,7 @@
 
 ### Criação de Crawlers e Consultas com Athena:
 
-- Foi criado Crawler atravéd do Glue para acesso as dados do Bucket Processing e Curated para fazer consultas SQL usando AWS Athena que é um serviço Serverless não precisando de nenhuma instância.
+- Foi criado Crawler através do Glue para acesso as dados do Bucket Processing e Curated para fazer consultas SQL usando AWS Athena que é um serviço Serverless não precisando de nenhuma instância.
 
 ![Crawler](https://user-images.githubusercontent.com/45739569/224555564-2b741c10-909c-4ea6-8886-f0c5147fc1de.png)
 
@@ -52,7 +52,7 @@
 ![Athena](https://user-images.githubusercontent.com/45739569/224555727-76d0f8d5-78c3-42ee-871e-d768c6a43057.png)
 
 
-### Criando o Data Warehouse com Redshift para armazenar os dados para consultas subsequentes através do EMR.
+### Criando o Data Warehouse com Redshift para armazenar os dados para consultas subsequentes através do EMR:
 
 
 ![Redshift4](https://user-images.githubusercontent.com/45739569/224556620-dc2368f7-8350-4e3d-b46f-7dac2c1055d8.png)
